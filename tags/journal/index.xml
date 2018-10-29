@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journal on Wen-Sheng Chu</title>
+    <link>https://l2ior.github.io/tags/journal/</link>
+    <description>Recent content in Journal on Wen-Sheng Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://l2ior.github.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cascade of Tasks for Facial Expression Analysis</title>
+      <link>https://l2ior.github.io/publication/ivc16-cot/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/ivc16-cot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence Preserving Machine for Facial Action Unit Detection</title>
+      <link>https://l2ior.github.io/publication/tip16-cpm/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/tip16-cpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture of Grouped Regressions and Its Application to Visual Mapping</title>
+      <link>https://l2ior.github.io/publication/pr16-mog/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/pr16-mog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

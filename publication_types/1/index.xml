@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Wen-Sheng Chu</title>
+    <link>https://l2ior.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Wen-Sheng Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://l2ior.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning Facial Action Units From Web Images</title>
+      <link>https://l2ior.github.io/publication/cvpr18-wsc/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/cvpr18-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic AUs Detection in Infants Using Convolutional Neural Network</title>
+      <link>https://l2ior.github.io/publication/acii17-infant/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/acii17-infant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Spatial and Temporal Cues for Multi-label Facial Action Unit Detection</title>
+      <link>https://l2ior.github.io/publication/fg17-ant/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/fg17-ant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sayette Group Formation Task (GFT) Spontaneous Facial Expression Database</title>
+      <link>https://l2ior.github.io/publication/fg17-gft/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/fg17-gft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Region and Multi-label Learning for Facial Action Unit Detection</title>
+      <link>https://l2ior.github.io/publication/cvpr16-drml/</link>
+      <pubDate>Thu, 30 Jun 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/cvpr16-drml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence Preserving Machine for Facial Action Unit Detection</title>
+      <link>https://l2ior.github.io/publication/iccv15-cpm/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/iccv15-cpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Synchrony Discovery in Human Interaction</title>
+      <link>https://l2ior.github.io/publication/iccv15-usd/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/iccv15-usd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Patch and Multi-label Learning for Facial Action Unit Detection</title>
+      <link>https://l2ior.github.io/publication/cvpr15-jpml/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/cvpr15-jpml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Co-summarization: Video Summariza- tion by Visual Co-occurrence</title>
+      <link>https://l2ior.github.io/publication/cvpr15-cosum/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/cvpr15-cosum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IntraFace</title>
+      <link>https://l2ior.github.io/publication/fg15-intraface/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/fg15-intraface/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial Action Unit Detection by Cascade of Tasks</title>
+      <link>https://l2ior.github.io/publication/iccv13-cot/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/iccv13-cot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Transfer Machine for Personalized Facial Action Unit Detection</title>
+      <link>https://l2ior.github.io/publication/cvpr13-stm/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/cvpr13-stm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Temporal Commonality Discovery</title>
+      <link>https://l2ior.github.io/publication/eccv12-comm/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 -0800</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/eccv12-comm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Gender from Unaligned Facial Images by Set Classification</title>
+      <link>https://l2ior.github.io/publication/icpr10-gender/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/icpr10-gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOMI-Cosegmentation: Simultaneous Segmentation of Multiple Objects among Multiple Images</title>
+      <link>https://l2ior.github.io/publication/accv10-momi/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 -0800</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/accv10-momi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Discriminant Analysis Based on Canonical Differences for Face Recognition in Image Sets</title>
+      <link>https://l2ior.github.io/publication/accv07-kdt/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/accv07-kdt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic Pre-clustering Relevance Feedback in Region-Based Image Retrieval</title>
+      <link>https://l2ior.github.io/publication/accv06-rbir/</link>
+      <pubDate>Fri, 01 Dec 2006 00:00:00 -0800</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/accv06-rbir/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

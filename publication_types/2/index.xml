@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Wen-Sheng Chu</title>
+    <link>https://l2ior.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Wen-Sheng Chu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://l2ior.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Branch-and-Bound Framework for Unsupervised and Supervised Common Event Discovery</title>
+      <link>https://l2ior.github.io/publication/ijcv17-ced/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/ijcv17-ced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascade of Tasks for Facial Expression Analysis</title>
+      <link>https://l2ior.github.io/publication/ivc16-cot/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/ivc16-cot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence Preserving Machine for Facial Action Unit Detection</title>
+      <link>https://l2ior.github.io/publication/tip16-cpm/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/tip16-cpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Patch and Multi-label Learning for Facial Expression Analysis</title>
+      <link>https://l2ior.github.io/publication/tip16-jpml/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/tip16-jpml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture of Grouped Regressions and Its Application to Visual Mapping</title>
+      <link>https://l2ior.github.io/publication/pr16-mog/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/pr16-mog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective Transfer Machine for Personalized Facial Expression Analysis</title>
+      <link>https://l2ior.github.io/publication/tpami17-stm/</link>
+      <pubDate>Mon, 28 Mar 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/tpami17-stm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender Classification from Unaligned Face Images Using Support Subspaces</title>
+      <link>https://l2ior.github.io/publication/is2012-gender/</link>
+      <pubDate>Fri, 01 Feb 2013 21:02:30 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/is2012-gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and Robust Circular Object Detection With Probabilistic Pairwise Voting</title>
+      <link>https://l2ior.github.io/publication/spl11-ppv/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/spl11-ppv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel Discriminant Transformation for Image Set-Based Face Recognition</title>
+      <link>https://l2ior.github.io/publication/pr10-kdt/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/pr10-kdt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
