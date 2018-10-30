@@ -60,7 +60,7 @@ body {
 }
 
 img.paper_thumbnail:hover {
-  box-shadow: 0px 0px 4px 2px #888888;
+  box-shadow: 0px 0px 4px 3px #888888;
   border: 3px solid rgb(213, 68, 119);
 }
 
