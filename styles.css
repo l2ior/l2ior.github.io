@@ -52,6 +52,11 @@ body {
   }
 }
 
+.img-wrapper {
+  display: inline-block;
+  overflow: hidden;
+}
+
 .paper_thumbnail {
   border: 3px solid #eee;
   padding: 0px;
@@ -62,6 +67,8 @@ body {
 img.paper_thumbnail:hover {
   box-shadow: 0px 0px 4px 3px #888888;
   border: 3px solid rgb(213, 68, 119);
+  transform: scale(1.03);
+  -webkit-transform: scale(1.03);
 }
 
 .max-width-640 {
