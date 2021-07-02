@@ -28,8 +28,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://l2ior.github.io/home/about/</guid>
-      <description>Biography Wen-Sheng (Vincent) Chu is a Senior Research Scientist at Google Research, dedicated to developing machine learning techniques for computer vision problems and products on mobile devices, such as shipping Face Unlock on Pixel 4.
-Prior to Google, he was a Deep Learning Scientist at Apple, taking a major role of algorithm development for on-device technologies, including Face ID and real-time camera features shipped with 30M+ devices (eg, X, XR, XS, XS Max) and next-gen products.</description>
+      <description>Biography I am a Senior Research Scientist at Google Research, working in computer vision and machine learning. Most recently, I focus on developing on-device techniques for mobile products, such as Face Unlock on Pixel 4/4XL (2019).
+Prior to Google, I was a Deep Learning Scientist at Apple, taking a major role of algorithm development for on-device technology, including Face ID shipped with iPhone X (2017), real-time camera features (2018) shipped with decedent devices (eg, XR, XS, XS Max) and next-gen products.</description>
     </item>
     
     <item>
@@ -42,13 +42,26 @@ Prior to Google, he was a Deep Learning Scientist at Apple, taking a major role 
     </item>
     
     <item>
+      <title>Interns / Students</title>
+      <link>https://l2ior.github.io/home/interns/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/home/interns/</guid>
+      <description>Jason Chong (UIUC/David Froysth), 2020 &amp;ldquo;Retrieve in Style: Unsupervised Facial Feature Transfer and Retrieval&amp;rdquo; Paper  Code 
+Shlok Mishra (UMD/David Jacobs), 2020 &amp;ldquo;Improved Detection of Face Presentation Attacks Using Image Decomposition&amp;rdquo; Paper
+Esther Robb (Virginia Tech/Jia-Bin Huang), 2019 &amp;ldquo;Few-Shot Adaptation of Generative Adversarial Networks&amp;rdquo; Project  Paper  Code 
+Jaymo Kang (UC Berkeley), 2018 &amp;ldquo;Image Domain Translation using CycleGAN&amp;rdquo;</description>
+    </item>
+    
+    <item>
       <title>Services</title>
       <link>https://l2ior.github.io/home/services/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://l2ior.github.io/home/services/</guid>
       <description>Area Chair
- ACM International Conference on Multimodal Interaction (ICMI), 2020 ACM International Conference on Multimodal Interaction (ICMI), 2019 IEEE Conference on Automatic Face and Gesture Recognition (AFGR), 2019 IEEE Conference on Automatic Face and Gesture Recognition (AFGR), 2018  Conference Review
+ ACM International Conference on Multimodal Interaction (ICMI), 2020 ACM International Conference on Multimodal Interaction (ICMI), 2019 IEEE Conference on Automatic Face and Gesture Recognition (AFGR), 2019 IEEE Conference on Automatic Face and Gesture Recognition (AFGR), 2018  Organizing Committee
+ ICMI 2021 (Sponsorship Chair)  Conference Review
  Computer Vision and Pattern Recognition (CVPR), 2014&amp;ndash;present International Conference on Computer Vision (ICCV), 2015&amp;ndash;present European Conference on Computer Vision (ECCV), 2012&amp;ndash;present Automatic Face and Gesture Recognition (AFGR), 2015&amp;ndash;present Asian Conference on Compute Vision (ACCV), 2012&amp;ndash;2014 AAAI Conference on Artificial Intelligence (AAAI), 2016&amp;ndash;present Neural Information Processing Systems (NeurIPS), 2019&amp;ndash;present International Conference on Multimodal Interaction (ICMI), 2018&amp;ndash;present Affective Computing and Intelligent Interaction (ACII), 2015  Journal Review</description>
     </item>
     
