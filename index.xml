@@ -11,11 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Retrieve in Style: Unsupervised Facial Feature Transfer and Retrieval</title>
+      <link>https://l2ior.github.io/publication/iccv21-ris/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/iccv21-ris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Detection of Face Presentation Attacks Using Image Decomposition</title>
+      <link>https://l2ior.github.io/publication/arxiv21-pad/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/arxiv21-pad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Progressive Refinement Network for Occludded Pedestrian Detection</title>
       <link>https://l2ior.github.io/publication/eccv20-prnet/</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 -0700</pubDate>
       
       <guid>https://l2ior.github.io/publication/eccv20-prnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Adaptation of Generative Adversarial Networks</title>
+      <link>https://l2ior.github.io/publication/arxiv20-fsgan/</link>
+      <pubDate>Sun, 12 Jul 2020 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/arxiv20-fsgan/</guid>
       <description></description>
     </item>
     
@@ -116,33 +143,6 @@
       <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
       
       <guid>https://l2ior.github.io/publication/tip16-cpm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Region and Multi-label Learning for Facial Action Unit Detection</title>
-      <link>https://l2ior.github.io/publication/cvpr16-drml/</link>
-      <pubDate>Thu, 30 Jun 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://l2ior.github.io/publication/cvpr16-drml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint Patch and Multi-label Learning for Facial Expression Analysis</title>
-      <link>https://l2ior.github.io/publication/tip16-jpml/</link>
-      <pubDate>Wed, 18 May 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://l2ior.github.io/publication/tip16-jpml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixture of Grouped Regressions and Its Application to Visual Mapping</title>
-      <link>https://l2ior.github.io/publication/pr16-mog/</link>
-      <pubDate>Sun, 01 May 2016 00:00:00 -0700</pubDate>
-      
-      <guid>https://l2ior.github.io/publication/pr16-mog/</guid>
       <description></description>
     </item>
     
