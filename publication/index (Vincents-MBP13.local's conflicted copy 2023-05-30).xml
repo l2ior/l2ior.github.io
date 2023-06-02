@@ -13,24 +13,6 @@
     
     
     <item>
-      <title>Distributionally Robust Post-hoc Classifiers under Prior Shifts</title>
-      <link>https://l2ior.github.io/publication/iclr23-drops/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
-      
-      <guid>https://l2ior.github.io/publication/iclr23-drops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rethinking Domain Generalization for Face Anti-Spoofing: Separability and Alignment</title>
-      <link>https://l2ior.github.io/publication/cvpr23-fas/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
-      
-      <guid>https://l2ior.github.io/publication/cvpr23-fas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing</title>
       <link>https://l2ior.github.io/publication/eccv22-pad/</link>
       <pubDate>Sun, 23 Oct 2022 00:00:00 -0700</pubDate>
@@ -63,15 +45,6 @@
       <pubDate>Mon, 12 Jul 2021 00:00:00 -0700</pubDate>
       
       <guid>https://l2ior.github.io/publication/iccv21-ris/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improved Detection of Face Presentation Attacks Using Image Decomposition</title>
-      <link>https://l2ior.github.io/publication/arxiv21-pad/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 -0700</pubDate>
-      
-      <guid>https://l2ior.github.io/publication/arxiv21-pad/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020</copyright>
-    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://l2ior.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distributionally Robust Post-hoc Classifiers under Prior Shifts</title>
+      <link>https://l2ior.github.io/publication/iclr23-drops/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/iclr23-drops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking Domain Generalization for Face Anti-Spoofing: Separability and Alignment</title>
+      <link>https://l2ior.github.io/publication/cvpr23-fas/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/cvpr23-fas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing</title>
+      <link>https://l2ior.github.io/publication/eccv22-pad/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/eccv22-pad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Detection of Face Presentation Attacks Using Image Decomposition</title>
+      <link>https://l2ior.github.io/publication/ijcb22-pad/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/ijcb22-pad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving Inverse Problems with NerfGANs</title>
+      <link>https://l2ior.github.io/publication/arxiv21-nerfgan/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 -0800</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/arxiv21-nerfgan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Retrieve in Style: Unsupervised Facial Feature Transfer and Retrieval</title>
