@@ -13,6 +13,33 @@
     
     
     <item>
+      <title>SEAL: SEmantic Attention Learning for Long Video Representation</title>
+      <link>https://l2ior.github.io/publication/cvpr25-seal/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/cvpr25-seal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RB-Modulation: Training-Free Stylization using Reference-Based Modulation</title>
+      <link>https://l2ior.github.io/publication/iclr25-rbm/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/iclr25-rbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Image Inversion and Editing using Stochastic Rectified Differential Equations</title>
+      <link>https://l2ior.github.io/publication/iclr25-rfi/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 -0700</pubDate>
+      
+      <guid>https://l2ior.github.io/publication/iclr25-rfi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beyond First-Order Tweedie: Solving Inverse Problems using Latent Diffusion</title>
       <link>https://l2ior.github.io/publication/cvpr24-stsl/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 -0700</pubDate>
