@@ -1,5 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/publication_types/1/</loc>
+      <lastmod>2026-05-30T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/publication/cvpr26-auditdm/</loc>
+      <lastmod>2026-05-30T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/publication_types/</loc>
+      <lastmod>2026-05-30T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/</loc>
+      <lastmod>2026-05-30T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/publication/cvpr26-mull/</loc>
+      <lastmod>2026-05-29T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/publication/iclr26-live/</loc>
+      <lastmod>2026-04-07T00:00:00-07:00</lastmod>
+    </url>
+    
   
     
     
@@ -122,8 +178,28 @@
     
     <url>
     
+      <loc>https://l2ior.github.io/publication_types/6/</loc>
+      <lastmod>2018-11-02T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://l2ior.github.io/publication/chapter18-afc/</loc>
       <lastmod>2018-11-02T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/project/</loc>
+      <lastmod>2018-11-02T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -140,8 +216,38 @@
     
     <url>
     
+      <loc>https://l2ior.github.io/publication_types/2/</loc>
+      <lastmod>2018-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/tags/journal/</loc>
+      <lastmod>2018-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://l2ior.github.io/publication/ivc18-momu/</loc>
       <lastmod>2018-10-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/tags/</loc>
+      <lastmod>2018-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -302,6 +408,26 @@
     
     <url>
     
+      <loc>https://l2ior.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://l2ior.github.io/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://l2ior.github.io/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-08:00</lastmod>
     </url>
@@ -455,107 +581,7 @@
     
     <url>
     
-      <loc>https://l2ior.github.io/publication_types/1/</loc>
-      <lastmod>2025-06-07T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/publication_types/2/</loc>
-      <lastmod>2018-10-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/publication_types/6/</loc>
-      <lastmod>2018-11-02T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://l2ior.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/tags/journal/</loc>
-      <lastmod>2018-10-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/project/</loc>
-      <lastmod>2018-11-02T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/publication_types/</loc>
-      <lastmod>2025-06-07T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://l2ior.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
